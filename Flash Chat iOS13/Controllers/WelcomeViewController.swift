@@ -14,7 +14,7 @@ class WelcomeViewController: UIViewController {
         super.viewDidLoad()
         
         titleLabel.text = "⚡️FlashChat"
-
+    
         //Laebl animation using for loop :-
 //        titleLabel.text = ""
 //        var charIndex = 0.0
